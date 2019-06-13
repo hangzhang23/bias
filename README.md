@@ -1,4 +1,4 @@
 # bias
 master thesis
 
-visualization
+visualization first version
