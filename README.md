@@ -1,3 +1,3 @@
 # bias
-Master thesis
-some scripts of my master topic
+Master thesis<br><br>
+some scripts to for fairness-metrics
