@@ -1,3 +1,3 @@
-# bias
+# Debias autoencoder
 Master thesis<br><br>
-some scripts to for fairness-metrics
+this model is based on autoencoder, which aims to decrease the discrimination on unbalanced dataset. 
